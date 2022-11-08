@@ -1,0 +1,15 @@
+0.4 => (En attente)
+    - Ajout du type de match (ex: 5vs5) et du type de récompense (gemmes/skin)
+
+0.3 =>
+    - Modification de la page des tournois suite a une demande du pole orga
+
+0.2 =>
+    - Amélioration de l'action groupe pour la gestion tournoi et team (AJAX => rapide et simple !)
+    - Passage des titres de colonnes des tableaux en gras
+    - Changement des icônes de en ligne / hors ligne en icône plus explicite et plus facile a comprendre
+    - Les tableaux mémorise maintenant l'état , les recherches , les triages , même après un rechargement de page / action groupé !
+    - Ajout de la confirmation avant une action (modif / suppression)
+
+0.1 =>
+    - système de base ....
